@@ -3835,6 +3835,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [elciuk's Solution (Easy)](https://github.com/elciuk/google-homepage) - [View in Browser](https://elciuk.github.io/google-homepage)
 * [Marcos Hernandez Solution (Easy)](https://marcos6838.github.io/google-homepage/)
 </details>
+[Itai Solution (Easy)](https://github.com/georit/google-homepage) - [View in Browser](https://github.com/georit/google-homepage) 
 
 ### Additional Resources
 
